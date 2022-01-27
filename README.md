@@ -6,6 +6,20 @@
 
 [Progress Notes]
 
+* Jan 26, 2022
+     * Referenced the Esri's Crime Analysis Solutions
+     * Create the following layers and compared them 
+         * Emerging Hotspot Analysis based on the Space-Time Cube Analysis
+         * Optimized Hotspot Analysis
+         * Kerned Density Analysis
+
+* Jan 25, 2022
+     * Referenced the Esri's Crime Analysis Solutions
+     * Import the Collected ACS data to the Notebook in ArcgIS Pro, and merge it with the Orlando Crime data
+     * Create scatter plots and charts
+     * Issues on installing Geopandas
+         * => Could not solve, instead solved the issue with R. 
+
 * Jan 24, 2022
     * Manpulate ACS data and create new columns and maps by using R (OPD_Crime_Analysis_220124.R)
     * Craete a barplot for densities as well as a heatmap of crime incidents by day of week and hour of day
