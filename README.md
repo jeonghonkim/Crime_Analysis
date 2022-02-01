@@ -11,15 +11,18 @@
 
 * Jan 31, 2022, Monday
     * Complete the getting ACS block data in 2015 and 2019 in R
-    * Trying to solve the error issue on exporting the completed spatial dataframe to a shapefile in a local drive as well as to a layer in ArcGIS Online - Not solved yet
+    * Trying to solve the error issue on exporting the completed spatial dataframe to a shapefile in a local drive 
+      as well as to a layer in ArcGIS Online - Not solved yet
 
 * Jan 28, 2022, Friday
     * Spatial joined the neighborhood crime data with the census block data in 2019 and 2015.
-    * Included more variables into ACS block data, such as Housing monthly owner costs, available vehicles by household, and transportation means to work - did not finish
+    * Included more variables into ACS block data, such as Housing monthly owner costs, available vehicles by 
+      household, and transportation means to work - did not finish
 
 * Jan 27, 2022, Thursday
     * Created the new census data based on census blocks in 2015, 2019 (ACS-5 years estiamtes)
-    * Trying to solve the error issue on exporting the completed spatial dataframe to a shapefile in a local drive as well as to a layer in ArcGIS Online - Not solved yet
+    * Trying to solve the error issue on exporting the completed spatial dataframe to a shapefile in a local drive 
+      as well as to a layer in ArcGIS Online - Not solved yet
 
 * Jan 26, 2022, Wednesday
      * Referenced the Esri's Crime Analysis Solutions
@@ -37,14 +40,13 @@
 
 * Jan 24, 2022, Monday
     * Manpulate ACS data and create new columns and maps by using R (OPD_Crime_Analysis_220124.R)
-    * Craete a barplot for densities as well as a heatmap of crime incidents by day of week and 
-      hour of day
+    * Craete a barplot for densities as well as a heatmap of crime incidents by day of week and hour of day
     
 * Jan 21, 2022, Friday
     * sovle the isuse on python environment: cannot install python module with pip install, 
       conda install
-        * => create new python environment: Command Prompt, conda create -k --clone arcgispro
-          -py3 --name arcgispro-py3-clone
+        * => create new python environment: Command Prompt, conda create -k --clone arcgispro-py3 --name 
+          arcgispro-py3-clone
     * Research census data related to the crime data (modeling for crime)
     * Collect ACS in R and import them (OPD_Crime_Analysis_220121.R)
     
