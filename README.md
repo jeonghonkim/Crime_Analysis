@@ -37,11 +37,14 @@
 
 * Jan 24, 2022, Monday
     * Manpulate ACS data and create new columns and maps by using R (OPD_Crime_Analysis_220124.R)
-    * Craete a barplot for densities as well as a heatmap of crime incidents by day of week and hour of day
+    * Craete a barplot for densities as well as a heatmap of crime incidents by day of week and 
+      hour of day
     
 * Jan 21, 2022, Friday
-    * sovle the isuse on python environment: cannot install python module with pip install, conda install
-        * => create new python environment: Command Prompt, conda create -k --clone arcgispro-py3 --name arcgispro-py3-clone
+    * sovle the isuse on python environment: cannot install python module with pip install, 
+      conda install
+        * => create new python environment: Command Prompt, conda create -k --clone arcgispro
+          -py3 --name arcgispro-py3-clone
     * Research census data related to the crime data (modeling for crime)
     * Collect ACS in R and import them (OPD_Crime_Analysis_220121.R)
     
