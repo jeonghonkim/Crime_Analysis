@@ -6,8 +6,20 @@
 
 [Progress Notes]
 
+* Feb 2, 2020, Wednesday
+    * Complete all spatial join and exporting sdf to ArcGIS Online
+    * Finally complete the troubleshooting on intsalling geopandas as well as exporting layers to ArcGIS Online
+        * 1) Deleted all environments excepting base and arcgispro-py3 base in Python Prompt Command
+        * 2) After rebooting, set the environment to arcgispro-py3 base, and created clone environment in Python 
+        Prompt Command: 'conda create -n yourclooneenv --clone arcgispro-py3
+        * 3) After rebooting again, installed the anaconda in Python Prompt Command: 'conda install anaconda'
+        * 4) After rebooting one more time, updated all environments in Python Prompt Command: 'conda update --all'
+        * 5) After reboooting, installed geopandas in Python Prompt Command: 'conda install geopandas'
+        * 6) Successfully imported geopandas in Jupyter Notebook in ArcGIS Proo
+
 * Feb 1, 2022, Tuesday
-    * 
+    * Spatial join the crime-neighborhood sdf with the census block data
+    * Trying to solve the issue on installing Geopandas - Not solved yet
 
 * Jan 31, 2022, Monday
     * Complete the getting ACS block data in 2015 and 2019 in R
