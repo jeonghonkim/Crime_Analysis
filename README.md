@@ -8,10 +8,11 @@
 
 * Feb 8, 2022 Tuesday
     * Problem solved - issue on the "You need to be signed in to use spatial analysis"
-        * => 1) After restart kernel, log-in to arcgis online account again: gis = GIS("https://www.arcgis.com", "your_id", "your_password")
+        * => 1) After restart kernel, log-in to arcgis online account again: 
+        gis = GIS("https://www.arcgis.com", "your_id", "your_password")
         * => 2) Use a projected shapefile with no missing value
-https://community.esri.com/t5/arcgis-api-for-python-questions/you-need-to-be-signed-in-to-use-spatial-analysis/td-p/751603
-https://github.com/danioxoli/HotSpotAnalysis_Plugin/issues/36#issuecomment-509184014
+        * https://community.esri.com/t5/arcgis-api-for-python-questions/you-need-to-be-signed-in-to-use-spatial-analysis/td-p/751603
+        * https://github.com/danioxoli/HotSpotAnalysis_Plugin/issues/36#issuecomment-509184014
     * Created a crime hotspots map with map widget
     * Exported a web map from map widget to ArcGIS Online
 
@@ -21,7 +22,8 @@ https://github.com/danioxoli/HotSpotAnalysis_Plugin/issues/36#issuecomment-50918
 
 * Feb 4. 2022, Thursday
     * Create crime heatmaps of Day of week and Hours by Crime Categories
-    * Craete correlation plots of ACS data (Housing vacancy change, Median housing rent, Un-employment rate, Precetange of educational attainment less than high school diploma) 
+    * Craete correlation plots of ACS data (Housing vacancy change, Median housing rent, Un-employment rate, 
+    Precetange of educational attainment less than high school diploma) 
 
 * Feb 2, 2022, Wednesday
     * Complete all spatial join and exporting sdf to ArcGIS Online
