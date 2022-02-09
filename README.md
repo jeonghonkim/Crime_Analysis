@@ -6,6 +6,10 @@
 
 [Progress Notes]
 
+* Feb 8, 2022 Tuesday
+    * Created a crime hotspots map with map widget
+    * Exported a web map from map widget to ArcGIS Online
+
 * Feb 7, 2022 Monday
     * Created a correlation plot of all ACS data by crime offense cateogry
     * Created two maps of crime points and ACS block data using Map Widget
