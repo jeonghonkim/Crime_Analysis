@@ -6,7 +6,11 @@
 
 [Progress Notes]
 
-* Feb 2, 2020, Wednesday
+* Feb 4. 2022, Thursday
+    * Create crime heatmaps of Day of week and Hours by Crime Categories
+    * Craete correlation plots of ACS data (Housing vacancy change, Median housing rent, Un-employment rate, Precetange of educational attainment less than high school diploma) 
+
+* Feb 2, 2022, Wednesday
     * Complete all spatial join and exporting sdf to ArcGIS Online
     * Finally complete the troubleshooting on intsalling geopandas and exporting layers to ArcGIS Online
         * 1) Deleted all environments excepting base and arcgispro-py3 base in Python Prompt Command
