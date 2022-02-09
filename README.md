@@ -6,6 +6,10 @@
 
 [Progress Notes]
 
+* Feb 7, 2022 Monday
+    * Created a correlation plot of all ACS data by crime offense cateogry
+    * Created two maps of crime points and ACS block data using Map Widget
+
 * Feb 4. 2022, Thursday
     * Create crime heatmaps of Day of week and Hours by Crime Categories
     * Craete correlation plots of ACS data (Housing vacancy change, Median housing rent, Un-employment rate, Precetange of educational attainment less than high school diploma) 
