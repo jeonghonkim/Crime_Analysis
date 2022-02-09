@@ -5,6 +5,7 @@
 ```diff
 
 [Progress Notes]
+
 * Feb 9, 2022 Wednesday
     * Research the issue on the jurisdiction differences between Census Block Groups and Neighborhoods in the City of Orlando
     * Aggregate number of crimes by Census Block Group / Neighborhoods for the City of Orlando
