@@ -7,6 +7,7 @@
 [Progress Notes]
 
 * Feb 9, 2022 Wednesday
+    * Crated a webmap of Crime Points, ACS Census Block Groups, and Heatmaps of Crime Points from 2010 to 2020
     * Research the issue on the jurisdiction differences between Census Block Groups and Neighborhoods in the City of Orlando
     * Aggregate number of crimes by Census Block Group / Neighborhoods for the City of Orlando
 
