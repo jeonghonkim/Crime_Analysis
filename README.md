@@ -6,8 +6,12 @@
 
 [Progress Notes]
 
+* Feb 15, 2022 Tuesday
+    * Calculated distance between the Grids and the 11 city and county data with Spatial Join (closest option)
+    * Export one content with 11 city and county asset layers to ArcGIS Online
+
 * Feb 14, 2022 Monday
-    * Collected Orlando City and Orange County asset data to calculate the distances between the girds and the assets
+    * Collected Orlando City and Orange County data to calculate the distances between the girds and the assets
         * 1) Hospitals
         * 2) Sunrail Stations
         * 3) Universities
