@@ -6,6 +6,9 @@
 
 [Progress Notes]
 
+* Feb 16, 2022 Wednesday
+    * Created a map widget, and imported the 11 city and county data from ArcGIS Online
+
 * Feb 15, 2022 Tuesday
     * Calculated distance between the Grids and the 11 city and county data with Spatial Join (closest option)
     * Export one content with 11 city and county asset layers to ArcGIS Online
