@@ -6,6 +6,17 @@
 
 [Progress Notes]
 
+* Feb 11, 2022 Friday
+    * Spatial join OPD Grids with Crime Points and ACS Census Block Group layer for analysis
+
+* Feb 10, 2022 Thursday
+    * OPD Grids uploaded to ArcGIS Online
+    * Converting process from multipolygon csv to ArcGIS Online layer
+        * Import csv and convert it to gdf
+        * Export the gdf to shp
+        * Re-import shp as sdf
+        * Re-export sdf as lyer to ArcGIS Online
+
 * Feb 9, 2022 Wednesday
     * Crated a webmap of Crime Points, ACS Census Block Groups, and Heatmaps of Crime Points from 2010 to 2020
     * Research the issue on the jurisdiction differences between Census Block Groups and Neighborhoods in the City of Orlando
