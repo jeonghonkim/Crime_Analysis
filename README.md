@@ -6,6 +6,20 @@
 
 [Progress Notes]
 
+* Feb 14, 2022 Monday
+    * Collected Orlando City and Orange County asset data to calculate the distances between the girds and the assets
+        * 1) Hospitals
+        * 2) Sunrail Stations
+        * 3) Universities
+        * 4) Public Schools
+        * 5) Sunrail Line
+        * 6) Streets
+        * 7) ACS block group in 2017 and 2019
+        * 8) Zip Code
+        * 9) Central Business District
+        * 10) Neighborhoods
+        * 11) City Limits
+
 * Feb 11, 2022 Friday
     * Spatial join OPD Grids with Crime Points and ACS Census Block Group layer for analysis
 
